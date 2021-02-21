@@ -5,6 +5,15 @@ h1{
 h1{
 	color:blue;
 }
+.main {
+    color: rebeccapurple;
+    border: 2px solid #ccc;
+    padding: 1em;
+}
 
+.special {
+    color: black;
+    font-weight: bold;
+}
 
 //In this case the color blue happens to be the color of h1 because of specificity rules.
