@@ -1,0 +1,10 @@
+h1{
+	color:red;
+}
+
+h1{
+	color:blue;
+}
+
+
+//In this case the color blue happens to be the color of h1 because of specificity rules.
