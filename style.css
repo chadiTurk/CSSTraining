@@ -6,5 +6,16 @@ h1{
 	color:blue;
 }
 
+body{
+	color  :black;
+	width: 50%;
+}
 
+.list{
+	color:orange;
+}
+
+.innerList{
+	color:red;
+}
 //In this case the color blue happens to be the color of h1 because of specificity rules.
