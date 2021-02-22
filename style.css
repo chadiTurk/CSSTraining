@@ -6,5 +6,21 @@ h1{
 	color:blue;
 }
 
+body {
+    color: green;
+}
+          
+.my-class-1 a {
+    color: inherit;
+}
+          
+.my-class-2 a {
+    color: initial;
+}
+          
+.my-class-3 a {
+    color: unset;
+}
+    
 
 //In this case the color blue happens to be the color of h1 because of specificity rules.
